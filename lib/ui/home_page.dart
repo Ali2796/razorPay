@@ -64,7 +64,7 @@ late   var _razorpay;
                 color: Colors.grey,
                 child: Text("Pay Amount"),
                 onPressed: () {
-                  ///Make payment
+                  ///Make payment///
                   var options = {
                     'key': "rzp_test_xvlZZBGCo0SzL0",
                     // amount will be multiple of 100
